@@ -1,0 +1,40 @@
+{
+  "programming_languages": [
+    "python", "javascript", "typescript", "c++", "c", "java", "c#", "go", "golang",
+    "rust", "ruby", "php", "swift", "kotlin", "scala", "r", "dart", "matlab", "bash", "shell", "sql"
+  ],
+  "ai_ml_data_science": [
+    "machine learning", "deep learning", "artificial intelligence", "pytorch", "tensorflow",
+    "scikit-learn", "keras", "opencv", "computer vision", "natural language processing", "nlp",
+    "large language models", "llm", "rag", "retrieval-augmented generation", "transformers",
+    "huggingface", "pandas", "numpy", "matplotlib", "seaborn", "scipy", "xgboost", "lightgbm",
+    "faiss", "chromadb", "langchain", "llamaindex", "reinforcement learning", "neural networks", "bert"
+  ],
+  "web_and_backend": [
+    "react", "react.js", "next.js", "vue", "vue.js", "angular", "node.js", "express",
+    "fastapi", "flask", "django", "spring boot", "asp.net", "graphql", "rest api", "restful",
+    "tailwind css", "bootstrap", "html5", "css3", "redux", "websockets", "microservices"
+  ],
+  "cloud_and_devops": [
+    "aws", "amazon web services", "azure", "google cloud", "gcp", "docker", "kubernetes",
+    "k8s", "terraform", "ci/cd", "github actions", "gitlab ci", "jenkins", "ansible",
+    "linux", "nginx", "prometheus", "grafana", "helm", "serverless"
+  ],
+  "databases": [
+    "postgresql", "postgres", "mysql", "mongodb", "sqlite", "redis", "cassandra",
+    "dynamodb", "elasticsearch", "neo4j", "mariadb", "oracle", "supabase", "firebase"
+  ],
+  "iot_and_hardware": [
+    "esp32", "arduino", "raspberry pi", "mqtt", "i2c", "spi", "uart", "lorawan", "ble",
+    "bluetooth low energy", "zigbee", "embedded systems", "freertos", "sensor interfacing",
+    "adc", "ads1115", "edge ai", "pcb design", "firmware", "microcontrollers"
+  ],
+  "software_engineering_tools": [
+    "git", "github", "gitlab", "bitbucket", "jira", "vs code", "visual studio",
+    "postman", "pytest", "unit testing", "agile", "scrum", "tdd", "system design"
+  ],
+  "soft_skills": [
+    "problem solving", "analytical thinking", "communication", "team collaboration",
+    "leadership", "project management", "time management", "critical thinking", "adaptability"
+  ]
+}
